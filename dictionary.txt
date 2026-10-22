@@ -1,0 +1,8 @@
+password
+12345678
+admin123
+aaaaaaaa
+qwerty12
+test1234
+Password1
+abcdefgh
